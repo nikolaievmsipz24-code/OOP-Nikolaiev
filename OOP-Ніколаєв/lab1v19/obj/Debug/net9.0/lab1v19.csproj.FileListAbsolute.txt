@@ -1,0 +1,14 @@
+C:\Users\USER\OOP-Ніколаєв\lab1v19\obj\Debug\net9.0\lab1v19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OOP-Ніколаєв\lab1v19\obj\Debug\net9.0\lab1v19.AssemblyInfoInputs.cache
+C:\Users\USER\OOP-Ніколаєв\lab1v19\obj\Debug\net9.0\lab1v19.AssemblyInfo.cs
+C:\Users\USER\OOP-Ніколаєв\lab1v19\obj\Debug\net9.0\lab1v19.csproj.CoreCompileInputs.cache
+C:\Users\USER\OOP-Ніколаєв\lab1v19\bin\Debug\net9.0\lab1v19.exe
+C:\Users\USER\OOP-Ніколаєв\lab1v19\bin\Debug\net9.0\lab1v19.deps.json
+C:\Users\USER\OOP-Ніколаєв\lab1v19\bin\Debug\net9.0\lab1v19.runtimeconfig.json
+C:\Users\USER\OOP-Ніколаєв\lab1v19\bin\Debug\net9.0\lab1v19.dll
+C:\Users\USER\OOP-Ніколаєв\lab1v19\bin\Debug\net9.0\lab1v19.pdb
+C:\Users\USER\OOP-Ніколаєв\lab1v19\obj\Debug\net9.0\lab1v19.dll
+C:\Users\USER\OOP-Ніколаєв\lab1v19\obj\Debug\net9.0\refint\lab1v19.dll
+C:\Users\USER\OOP-Ніколаєв\lab1v19\obj\Debug\net9.0\lab1v19.pdb
+C:\Users\USER\OOP-Ніколаєв\lab1v19\obj\Debug\net9.0\lab1v19.genruntimeconfig.cache
+C:\Users\USER\OOP-Ніколаєв\lab1v19\obj\Debug\net9.0\ref\lab1v19.dll
