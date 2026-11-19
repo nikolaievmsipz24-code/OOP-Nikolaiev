@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pUWpwAcZyks=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\USER\\OOP-Ніколаєв\\iw19\\iw19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\polly\\8.9.1\\polly.8.9.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\polly.core\\8.9.1\\polly.core.8.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
