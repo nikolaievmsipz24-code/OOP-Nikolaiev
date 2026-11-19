@@ -116,7 +116,7 @@ public async Task<IActionResult> Detail(int orderId)
 Контролер (OrderController) — працює лише як тонкий HTTP-адаптер: приймає orderId, викликає медіатор і повертає View(...) або NotFound()/Forbid().
 
 C#
-// 1. Окремий мапер (SRP: тільки перетворення моделей)
+// 1. Окремий мапер 
 public static class OrderViewModelMapper
 {
     public static OrderViewModel Map(Order order) => new()
@@ -135,7 +135,7 @@ public static class OrderViewModelMapper
     };
 }
 
-// 2. Тонкий контролер (SRP: тільки HTTP-маршрутизація та вибір відповіді)
+// 2. Тонкий контролер 
 [HttpGet("{orderId}")]
 public async Task<IActionResult> Detail(int orderId)
 {
